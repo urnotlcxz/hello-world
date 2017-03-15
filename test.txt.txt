@@ -1,3 +1,0 @@
-﻿第一天学Git！
-The first day I learn Git~！
-Hello world!
