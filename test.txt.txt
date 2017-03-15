@@ -1,2 +1,3 @@
-µÚÒ»ÌìÑ§Git£¡
-The first day I learn Git~£¡
+ï»¿ç¬¬ä¸€å¤©å­¦Gitï¼
+The first day I learn Git~ï¼
+Hello world!
